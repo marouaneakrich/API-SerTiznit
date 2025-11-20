@@ -132,9 +132,3 @@ sertiznit-api/
 ├── package.json       # Dependencies
 └── README.md          # This file
 ```
-
-## 📅 Project Timeline
-- Launch: 17/11/2025
-- Deadline: 21/11/2025
-- Duration: 5 days
-
